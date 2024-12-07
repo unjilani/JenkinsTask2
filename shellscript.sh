@@ -11,3 +11,5 @@ elif [ "$age" -ge 20 ] && [ "$age" -le 63 ]; then
 else
     echo "Please enter a valid age"
 fi
+
+echo "Script file is updated"
