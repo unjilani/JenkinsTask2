@@ -12,4 +12,4 @@ else
     echo "Please enter a valid age"
 fi
 
-echo "Script file is updated 3rd Edition Update"
+echo "Script file is updated 4th Edition Update"
